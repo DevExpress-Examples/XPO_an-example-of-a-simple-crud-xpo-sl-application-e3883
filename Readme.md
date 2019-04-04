@@ -6,7 +6,7 @@
 * [Silverlight.js](./CS/SilverlightApplication5.Web/Silverlight.js) (VB: [Silverlight.js](./VB/SilverlightApplication5.Web/Silverlight.js))
 * [SilverlightApplication5TestPage.aspx](./CS/SilverlightApplication5.Web/SilverlightApplication5TestPage.aspx) (VB: [SilverlightApplication5TestPage.aspx](./VB/SilverlightApplication5.Web/SilverlightApplication5TestPage.aspx))
 * [MainPage.xaml](./CS/SilverlightApplication5/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication5/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SilverlightApplication5/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication5/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication5/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication5/MainPage.xaml.vb))
 * [Objects.cs](./CS/SilverlightApplication5/Objects.cs) (VB: [Objects.vb](./VB/SilverlightApplication5/Objects.vb))
 <!-- default file list end -->
 # An example of a simple CRUD XPO SL application
